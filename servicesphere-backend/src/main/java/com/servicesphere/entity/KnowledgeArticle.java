@@ -1,4 +1,4 @@
-package com.servicesphere.backend.entity;
+package com.servicesphere.entity;
 
 import jakarta.persistence.*;
 

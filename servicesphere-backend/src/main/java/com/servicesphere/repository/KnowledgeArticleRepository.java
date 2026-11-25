@@ -1,4 +1,4 @@
-package com.servicesphere.backend.repository;
+package com.servicesphere.repository;
 
 import com.servicesphere.entity.KnowledgeArticle;
 import org.springframework.data.jpa.repository.JpaRepository;

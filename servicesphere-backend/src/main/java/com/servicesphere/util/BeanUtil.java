@@ -1,4 +1,4 @@
-package com.servicesphere.backend.util;
+package com.servicesphere.util;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
